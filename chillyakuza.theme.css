@@ -1,0 +1,91 @@
+/**
+ * @name yakuza
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #555555;
+  --hover-color: #3A3A3A;
+  --success-color: #D9D9D9;
+  --danger-color: #262626;
+  --url-color: #A99090;
+  --undefined: 0;
+  --background-image: url('https://e1.fuel.com/desktop-wallpaper/118/551/desktop-wallpaper-yakuza-goro-majima-kiryu-kazuma-section-D0B8D0B3D180D18B.jpg');
+  --background-shading: 100%;
+  --background-position: top center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 153%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 1px;
+  --background-overlay: rgb(0,0,0,0.6);
+  --user-popout-image: url('https://e0.fuel.com/wallpapers/448/721/desktop-wallpaper-goro-majima-phone-yakuza-majima.jpg');
+  --user-popout-position: top center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 45%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 2px;
+  --user-modal-image: url('https://c4.wallpaperflare.com/wallpaper/610/743/684/yakuza-dragon-of-dojima-yakuza-kiwami-2-hd-wallpaper-preview.jpg');
+  --user-modal-position: top right;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 60%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 4px;
+  --home-icon: url('https://i.pinimg.com/474x/07/70/2a/07702adf6349a379495bb4667290a31c.jpg');
+  --home-position: center;
+  --home-size: 50px;
+  --channel-unread: #FFFFFF4D;
+  --channel-color: rgb(255,255,255,0.3);
+  --muted-color: rgba(255,255,255,0.1);
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: gg sans;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
